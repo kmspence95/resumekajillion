@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background: linear-gradient(to left, #0099cc 0%, #ccffff 90%);
+	}
+img {
+ 	float: right;
+	padding-right: 20px; 
+}
+h2 {
+	font-family:garamond; 
+	font-size:35px; 
+	color:purple; 
+	} 
+
+ul {
+	border: 2px solid purple;
+	border-radius: 10px;
+	padding:5px;
+	list-style-position: inside;
+	background-color: #71D2E8;
+	font-size: 20px;
+	font-family: Times New Roman; 
+	
+	color: rebeccapurple;
+	} 
+li {
+	padding:5px
+	}
+
+h3 {
+	border: 2px solid purple;
+  	border-radius: 10px;
+	padding: 5px;
+	background-color:#71D2E8;
+	font-family:garamond; 
+	color:purple;
+	font-size:25px;
+	}
